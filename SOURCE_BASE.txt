@@ -1,0 +1,2 @@
+Based on https://github.com/atc1441/CH559sdccUSBHost
+Original license: see LICENSE.
